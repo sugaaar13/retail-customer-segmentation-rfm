@@ -84,6 +84,7 @@ underperformance.
 
 ## 📁 Repository Structure
 - `data/` — raw and cleaned transaction datasets
+- `data/query_results/` — output CSV from SQL queries, used as input for the Python visualization notebook
 - `sql/queries.sql` — all SQL Server queries used for analysis and RFM
   scoring
 - `notebook/analysis.ipynb` — Python notebook for visualization and
